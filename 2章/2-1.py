@@ -15,3 +15,5 @@ print(type(1))      #int型
 print(type(3.14))   #float型
 print(type("Hi"))   #str型
 print(type(False))  #bool型
+
+# こんな形で変数を内蔵することもできます
