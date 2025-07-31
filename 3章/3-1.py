@@ -31,7 +31,7 @@ print("あなたのメールアドレスは " + email + " です。")
 name = input("あなたの名前を入力してください: ")
 
 if name == "Alice":
-    print("こんにちは、Aliceさん！")
+    print("こんにちは、Aliceさん!")
 else:
     print("who are you?")
 
